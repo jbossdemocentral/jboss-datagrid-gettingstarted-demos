@@ -10,7 +10,7 @@ MODULE1-DEMO
 
 What is it?
 -----------
-A
+A simple demo to show how easy it is to implement CRUD operations using JBoss Data Grid.
 
 System requirements
 -------------------
