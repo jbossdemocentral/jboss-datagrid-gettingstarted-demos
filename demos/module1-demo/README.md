@@ -7,6 +7,7 @@ MODULE1-DEMO
 **Prerequisites:** Java 1.6+, Maven     
 **Target Product:** JBoss Data Grid     
 **Product Version:** JBoss Data Grid 6.3   
+**Slides** <http://jbossevangelist.slides.com/tqvarnst/jdg-startkit-module-1--2#/>
 
 What is it?
 -----------
