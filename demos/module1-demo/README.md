@@ -3,7 +3,7 @@ MODULE1-DEMO
 **Author:** Thomas Qvarnström, tqvarnst@redhat.com   
 **Level:** Beginner   
 **Technologies:** In-memory datagrid   
-**Summary:** A simple demo to show how easy it is to implement CRUD operations using JBoss Data Grid.
+**Summary:** A simple demo to show how easy it is to implement CRUD operations using JBoss Data Grid.   
 **Prerequisites:** Java 1.6+, Maven     
 **Target Product:** JBoss Data Grid     
 **Product Version:** JBoss Data Grid 6.3   
