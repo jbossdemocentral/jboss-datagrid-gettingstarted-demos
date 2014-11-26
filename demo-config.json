@@ -1,0 +1,26 @@
+{
+  "summary":"Contains a set of demos and labs are used in the getting started kit for JBoss Data Grid",
+  "author":"Thomas Qvarnstrom",
+  "level":"Intermediate",
+  "published":true,
+  "prerequisites":"Java VM 1.6 or 1.7, Maven",
+  "targetProduct":"JBoss Data Grid",
+  "productVersion":"JBoss Data Grid 6.4",
+  "technologies": ["Infinispan","Data Grid", "EAP"],
+  "links": [ 
+    { 
+      "name":"Video",
+      "url":"http://youtu.be/8EEfHB3LkXA"
+    },
+    {
+      "name":"Slides",
+      "url":"http://jbossevangelist.slides.com/tqvarnst/jdg-startkit-module-1--2#/"
+    }
+    ,
+    {
+      "name":"Code",
+      "url":"https://github.com/jbossdemocentral/jboss-datagrid-gettingstarted-demos"
+    }
+  ]
+}
+
