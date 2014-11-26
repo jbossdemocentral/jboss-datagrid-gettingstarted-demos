@@ -1,4 +1,5 @@
 {
+  "name":"Getting started with JBoss Data Grid",
   "summary":"Contains a set of demos and labs are used in the getting started kit for JBoss Data Grid",
   "author":"Thomas Qvarnstrom",
   "level":"Intermediate",
