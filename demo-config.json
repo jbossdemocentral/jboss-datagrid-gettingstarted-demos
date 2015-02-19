@@ -2,6 +2,7 @@
   "name":"Getting started with JBoss Data Grid",
   "summary":"Contains a set of demos and labs are used in the getting started kit for JBoss Data Grid",
   "author":"Thomas Qvarnstrom",
+  "category":"jdg",
   "level":"Intermediate",
   "published":true,
   "prerequisites":"Java VM 1.6 or 1.7, Maven",
