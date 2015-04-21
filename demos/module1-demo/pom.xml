@@ -8,7 +8,23 @@
 		<dependency>
 			<groupId>org.infinispan</groupId>
 			<artifactId>infinispan-core</artifactId>
-			<version>6.1.0.Final-redhat-4</version>
+			<version>6.2.1.Final-redhat-2</version>
 		</dependency>
 	</dependencies>
+	<repositories>
+        <repository>
+            <id>techpreview-all-repository</id>
+            <name>Red Hat Enterprise Maven Repository</name>
+            <url>http://maven.repository.redhat.com/techpreview/all/</url>
+            <layout>default</layout>
+            <releases>
+                <enabled>true</enabled>
+                <updatePolicy>never</updatePolicy>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+                <updatePolicy>never</updatePolicy>
+            </snapshots>
+        </repository>
+    </repositories>
 </project>
