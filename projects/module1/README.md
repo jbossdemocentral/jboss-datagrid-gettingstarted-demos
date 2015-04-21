@@ -31,4 +31,5 @@ How to run
 		
 How to Demo
 ------------
-See [this](https://www.youtube.com/watch?t=220&v=8EEfHB3LkXA) video how to demo this first module
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8EEfHB3LkXA/0.jpg)](http://www.youtube.com/watch?v=8EEfHB3LkXA)
+
