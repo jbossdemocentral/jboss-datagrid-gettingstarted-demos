@@ -26,7 +26,7 @@ Note! This demos is preferably run directly in an IDE like Eclipse or JBoss Deve
 How to run
 ----------
 
-		$ mvn exec:java -Dexec.mainClass=Demo1
+		$ mvn exec:java -Dexec.mainClass=Demo
 		
 		
 How to Demo

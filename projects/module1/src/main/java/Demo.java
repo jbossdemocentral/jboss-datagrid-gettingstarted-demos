@@ -2,7 +2,7 @@ import org.infinispan.Cache;
 import org.infinispan.manager.DefaultCacheManager;
 
 
-public class Demo1 {
+public class Demo {
 
 	public static void main(String[] args) {
 		Cache<Object, Object> cache = new DefaultCacheManager().getCache();
