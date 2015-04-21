@@ -20,4 +20,5 @@ How to Build and Deploy the Demo
 --------------------------------
 For all demos/labs it's required to use the Enterprise Maven Repo. See here for more info.
 
-For module 1 instructions see here [README](projects/module1/README.md)
+For module 1 instructions see [here](projects/module1/README.md)
+For module 2 instructions see [here](projects/module2/README.md)
