@@ -32,5 +32,4 @@ How to run
 
 How to demo
 -----------
-
-TODO	
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/vUAJF6GX7xo/0.jpg)](http://www.youtube.com/watch?v=vUAJF6GX7xo)	
