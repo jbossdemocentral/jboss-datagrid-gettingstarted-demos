@@ -27,3 +27,8 @@ How to run
 ----------
 
 		$ mvn exec:java -Dexec.mainClass=Demo1
+		
+		
+How to Demo
+------------
+See [this](https://www.youtube.com/watch?t=220&v=8EEfHB3LkXA) video how to demo this first module
